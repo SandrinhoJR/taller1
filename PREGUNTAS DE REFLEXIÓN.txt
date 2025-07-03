@@ -1,0 +1,34 @@
+PREGUNTAS DE REFLEXIÓN
+
+PARTE 1
+
+¿Qué pasa si se envía una clase que no hereda de Mascota?
+
+R\\ Si se envía una clase que no hereda de Mascota donde se espera una Mascota, el código no compila
+
+
+
+¿Cómo se comporta si eliminas el instanceof y casteas directamente?
+
+si elimino el instanceof y casteo directamente el código me compila, pero si el objeto no es del tipo que esta esperando se genera un error (ClassCastException) y se cae, es decir,  solo funciona cuando el tipo es el correcto
+
+
+PARTE 3
+
+¿Qué modificadores son accesibles desde una subclase en otro paquete?
+
+protected y public
+
+
+¿Qué modificadores permiten acceder desde cualquier clase del mismo paquete?
+
+default, protected y public
+
+
+¿Qué pasaría si todos los atributos fueran public?
+
+si todos los atributos fueran públicos cualquier clase podría acceder y modificarlos directamente, esto haría romper el principio de encapsulamiento
+
+
+
+ 
