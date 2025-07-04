@@ -8,7 +8,7 @@ puede ser ejecutado en NetBeans o cualquier programa que ejecute Java
 
 ## Cómo usar
 
-ejecuta el proyecto desde el main
+ejecuta el proyecto desde el main para ver el uso de modficadores y el instanceof
 
 ## Licencia
 
